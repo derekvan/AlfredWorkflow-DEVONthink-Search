@@ -109,10 +109,10 @@ for itemInfoStr in infoList:
         "mods": {
             "cmd": {"valid": True, "arg": itemUUID, "subtitle": "🏷 " + ", ".join(itemTagList)},
             "alt": {"valid": True, "arg": itemUUID, "subtitle": "Reveal in DEVONthink"},
-            "shift": {"valid": True, "arg": "[" + itemName + "]" + "(x-devonthink-item://" + itemUUID + ")", "subtitle": "Set \"" + "[" + itemName + "]" + "(x-devonthink-item://" + itemUUID + ")" + "\" to the clipboard"}
+            "ctrl": { "valid": true, "arg": "[" + itemName + "]" + "(x-devonthink-item://" + itemUUID + ")", "subtitle": "Copy MD Link" }
         },
         "text": {
-            "copy": "x-devonthink-item://" + itemUUID,
+            "copy": itemName,
             "largetype": "x-devonthink-item://" + itemUUID
         },
         "quicklookurl": itemPath

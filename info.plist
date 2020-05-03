@@ -3,7 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.mpco.DEVONthinkProSearch</string>
+	<string></string>
+	<key>category</key>
+	<string>DEVONthink</string>
 	<key>connections</key>
 	<dict>
 		<key>23253F9B-2A9D-45AE-A8FA-4CF8E6FE54BF</key>
@@ -12,7 +14,7 @@
 				<key>destinationuid</key>
 				<string>C1A38576-ABC5-4202-BC67-0921672A8568</string>
 				<key>modifiers</key>
-				<integer>0</integer>
+				<integer>1179648</integer>
 				<key>modifiersubtext</key>
 				<string></string>
 				<key>vitoclose</key>
@@ -22,17 +24,7 @@
 				<key>destinationuid</key>
 				<string>C7CBFA98-7135-4918-9F96-C7E039CE2C34</string>
 				<key>modifiers</key>
-				<integer>1048576</integer>
-				<key>modifiersubtext</key>
-				<string>Open with DEVONthink</string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>destinationuid</key>
-				<string>72C81C8A-AD3A-4675-A407-B01AD86F0592</string>
-				<key>modifiers</key>
-				<integer>524288</integer>
+				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
 				<key>vitoclose</key>
@@ -40,9 +32,9 @@
 			</dict>
 			<dict>
 				<key>destinationuid</key>
-				<string>2F0D7AF6-77D1-45C2-AB02-776F4BA590A1</string>
+				<string>72C81C8A-AD3A-4675-A407-B01AD86F0592</string>
 				<key>modifiers</key>
-				<integer>131072</integer>
+				<integer>1048576</integer>
 				<key>modifiersubtext</key>
 				<string></string>
 				<key>vitoclose</key>
@@ -69,19 +61,6 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>FD00A4FC-B807-4081-8AB4-9AEAC5EC2525</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>767258F7-DFCA-46E9-B4FB-99E8B49E7A3F</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>F904A209-781E-466D-9D44-734E14812CC4</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -191,19 +170,9 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>BF865B9C-F658-4400-B041-6F7296568A95</string>
-				<key>modifiers</key>
-				<integer>1572864</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>destinationuid</key>
 				<string>C1A38576-ABC5-4202-BC67-0921672A8568</string>
 				<key>modifiers</key>
-				<integer>0</integer>
+				<integer>1179648</integer>
 				<key>modifiersubtext</key>
 				<string></string>
 				<key>vitoclose</key>
@@ -213,9 +182,9 @@
 				<key>destinationuid</key>
 				<string>C7CBFA98-7135-4918-9F96-C7E039CE2C34</string>
 				<key>modifiers</key>
-				<integer>1048576</integer>
+				<integer>0</integer>
 				<key>modifiersubtext</key>
-				<string>Open with DEVONthink</string>
+				<string></string>
 				<key>vitoclose</key>
 				<false/>
 			</dict>
@@ -223,17 +192,17 @@
 				<key>destinationuid</key>
 				<string>72C81C8A-AD3A-4675-A407-B01AD86F0592</string>
 				<key>modifiers</key>
-				<integer>524288</integer>
+				<integer>1048576</integer>
 				<key>modifiersubtext</key>
-				<string>Reveal in DEVONthink</string>
+				<string></string>
 				<key>vitoclose</key>
 				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
-				<string>2F0D7AF6-77D1-45C2-AB02-776F4BA590A1</string>
+				<string>BCE6564C-1539-46B7-BA7D-49633A97E4C8</string>
 				<key>modifiers</key>
-				<integer>131072</integer>
+				<integer>262144</integer>
 				<key>modifiersubtext</key>
 				<string></string>
 				<key>vitoclose</key>
@@ -246,7 +215,7 @@
 				<key>destinationuid</key>
 				<string>C1A38576-ABC5-4202-BC67-0921672A8568</string>
 				<key>modifiers</key>
-				<integer>0</integer>
+				<integer>1179648</integer>
 				<key>modifiersubtext</key>
 				<string></string>
 				<key>vitoclose</key>
@@ -256,17 +225,7 @@
 				<key>destinationuid</key>
 				<string>C7CBFA98-7135-4918-9F96-C7E039CE2C34</string>
 				<key>modifiers</key>
-				<integer>1048576</integer>
-				<key>modifiersubtext</key>
-				<string>Open with DEVONthink</string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>destinationuid</key>
-				<string>72C81C8A-AD3A-4675-A407-B01AD86F0592</string>
-				<key>modifiers</key>
-				<integer>524288</integer>
+				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
 				<key>vitoclose</key>
@@ -274,9 +233,19 @@
 			</dict>
 			<dict>
 				<key>destinationuid</key>
-				<string>2F0D7AF6-77D1-45C2-AB02-776F4BA590A1</string>
+				<string>72C81C8A-AD3A-4675-A407-B01AD86F0592</string>
 				<key>modifiers</key>
-				<integer>131072</integer>
+				<integer>1048576</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>BCE6564C-1539-46B7-BA7D-49633A97E4C8</string>
+				<key>modifiers</key>
+				<integer>262144</integer>
 				<key>modifiersubtext</key>
 				<string></string>
 				<key>vitoclose</key>
@@ -291,7 +260,7 @@
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>DEVONthink Search</string>
+	<string>DEVONthink Search 2</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -326,7 +295,18 @@ open "x-devonthink://search?query=${queryStr}"</string>
 				<key>escaping</key>
 				<integer>68</integer>
 				<key>script</key>
-				<string>on run argv	set theQuery to item 1 of argv	set theNewQuery to (do shell script "echo '" &amp; theQuery &amp; "' | perl -CIOED -p -e 's/(\\p{Block=CJK_Unified_Ideographs}+)/ ~\\1 /g'")	tell application "DEVONthink 3" to activate	tell application "System Events" to tell process "DEVONthink 3"		keystroke "n" using {command down, option down} -- open new window		set focused of text field 1 of group 3 of toolbar 1 of window 1 to true -- focus on search field		set value of text field 1 of group 3 of toolbar 1 of window 1 to theNewQuery		delay 0.1		keystroke return	end tellend run</string>
+				<string>on run argv
+	set theQuery to item 1 of argv
+	set theNewQuery to (do shell script "echo '" &amp; theQuery &amp; "' | perl -CIOED -p -e 's/(\\p{Block=CJK_Unified_Ideographs}+)/ ~\\1 /g'")
+	tell application "DEVONthink 3" to activate
+	tell application "System Events" to tell process "DEVONthink 3"
+		keystroke "n" using {command down, option down} -- open new window
+		set focused of text field 1 of group 3 of toolbar 1 of window 1 to true -- focus on search field
+		set value of text field 1 of group 3 of toolbar 1 of window 1 to theNewQuery
+		delay 0.1
+		keystroke return
+	end tell
+end run</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
@@ -365,37 +345,6 @@ open "x-devonthink://search?query=${queryStr}"</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>action</key>
-				<integer>0</integer>
-				<key>argument</key>
-				<integer>0</integer>
-				<key>focusedappvariable</key>
-				<false/>
-				<key>focusedappvariablename</key>
-				<string></string>
-				<key>hotkey</key>
-				<integer>2</integer>
-				<key>hotmod</key>
-				<integer>524288</integer>
-				<key>hotstring</key>
-				<string>D</string>
-				<key>leftcursor</key>
-				<false/>
-				<key>modsmode</key>
-				<integer>0</integer>
-				<key>relatedAppsMode</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.trigger.hotkey</string>
-			<key>uid</key>
-			<string>767258F7-DFCA-46E9-B4FB-99E8B49E7A3F</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>openwith</key>
 				<string></string>
 				<key>sourcefile</key>
@@ -428,13 +377,13 @@ open "x-devonthink://search?query=${queryStr}"</string>
 				<key>queuedelaycustom</key>
 				<integer>3</integer>
 				<key>queuedelayimmediatelyinitially</key>
-				<false/>
+				<true/>
 				<key>queuedelaymode</key>
 				<integer>1</integer>
 				<key>queuemode</key>
 				<integer>2</integer>
 				<key>runningsubtext</key>
-				<string>Searching…</string>
+				<string></string>
 				<key>script</key>
 				<string>/usr/bin/osascript -l JavaScript search.js "$1"</string>
 				<key>scriptargtype</key>
@@ -753,26 +702,19 @@ open "x-devonthink-item://${1}?reveal=1"</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>concurrently</key>
+				<key>autopaste</key>
 				<false/>
-				<key>escaping</key>
-				<integer>102</integer>
-				<key>script</key>
-				<string># $1: uuid
-echo "${1}" | pbcopy</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>0</integer>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>transient</key>
+				<false/>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.action.script</string>
+			<string>alfred.workflow.output.clipboard</string>
 			<key>uid</key>
-			<string>2F0D7AF6-77D1-45C2-AB02-776F4BA590A1</string>
+			<string>BCE6564C-1539-46B7-BA7D-49633A97E4C8</string>
 			<key>version</key>
-			<integer>2</integer>
+			<integer>3</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -831,7 +773,13 @@ echo "${1}" | pbcopy</string>
 				<key>escaping</key>
 				<integer>68</integer>
 				<key>script</key>
-				<string>on run	set theQuery to "{query}"	tell application "DEVONthink 3"		load workspace theQuery		activate	end tellend run</string>
+				<string>on run
+	set theQuery to "{query}"
+	tell application "DEVONthink 3"
+		load workspace theQuery
+		activate
+	end tell
+end run</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -924,7 +872,12 @@ echo "${1}" | pbcopy</string>
 				<key>escaping</key>
 				<integer>68</integer>
 				<key>script</key>
-				<string>on run	set theQuery to "{query}"	tell application "DEVONthink 3"		save workspace theQuery	end tellend run</string>
+				<string>on run
+	set theQuery to "{query}"
+	tell application "DEVONthink 3"
+		save workspace theQuery
+	end tell
+end run</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -965,15 +918,6 @@ echo "${1}" | pbcopy</string>
 			<key>ypos</key>
 			<integer>1105</integer>
 		</dict>
-		<key>2F0D7AF6-77D1-45C2-AB02-776F4BA590A1</key>
-		<dict>
-			<key>note</key>
-			<string>Copy item's MD-link</string>
-			<key>xpos</key>
-			<integer>815</integer>
-			<key>ypos</key>
-			<integer>755</integer>
-		</dict>
 		<key>463F4584-47AD-4B3E-B822-3D194043A268</key>
 		<dict>
 			<key>xpos</key>
@@ -1004,13 +948,6 @@ echo "${1}" | pbcopy</string>
 			<key>ypos</key>
 			<integer>595</integer>
 		</dict>
-		<key>767258F7-DFCA-46E9-B4FB-99E8B49E7A3F</key>
-		<dict>
-			<key>xpos</key>
-			<integer>65</integer>
-			<key>ypos</key>
-			<integer>135</integer>
-		</dict>
 		<key>8C14689F-1120-4E3C-9F18-CAF004A01508</key>
 		<dict>
 			<key>xpos</key>
@@ -1031,6 +968,13 @@ echo "${1}" | pbcopy</string>
 			<integer>65</integer>
 			<key>ypos</key>
 			<integer>265</integer>
+		</dict>
+		<key>BCE6564C-1539-46B7-BA7D-49633A97E4C8</key>
+		<dict>
+			<key>xpos</key>
+			<integer>820</integer>
+			<key>ypos</key>
+			<integer>755</integer>
 		</dict>
 		<key>BF865B9C-F658-4400-B041-6F7296568A95</key>
 		<dict>
@@ -1091,7 +1035,7 @@ echo "${1}" | pbcopy</string>
 		<key>filterOutGroup</key>
 		<string></string>
 		<key>ignoredDbUuidList</key>
-		<string>1FC1A637-D8CA-4807-B806-8617966870B5</string>
+		<string></string>
 	</dict>
 	<key>variablesdontexport</key>
 	<array>

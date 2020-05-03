@@ -61,7 +61,7 @@ function run(argv) {
 
             item["type"] = "file:skipcheck"
             item["title"] = itemName
-            item["arg"] = itemPath
+            item["arg"] = itemUUID
 
             // ignore group
             if (record.type() == 'group') {
@@ -89,13 +89,12 @@ function run(argv) {
             }
 
             item["mods"] = {
-                "cmd": { "valid": true, "arg": itemUUID, "subtitle": "🏷 " + itemTagStr },
-                "alt": { "valid": true, "arg": itemUUID, "subtitle": "Reveal in DEVONthink" },
-                "cmd+alt": { "valid": true, "arg": argv[0], "subtitle": "Search in DEVONthink App" },
-                "shift": {"valid": True, "arg": "[" + itemName + "]" + "(x-devonthink-item://" + itemUUID + ")", "subtitle": "Set \"" + "[" + itemName + "]" + "(x-devonthink-item://" + itemUUID + ")" + "\" to the clipboard"}
+                "cmd": { "valid": true, "arg": itemUUID, "subtitle": "Reveal in DEVONthink" },
+                "shift+cmd": { "valid": true, "arg": itemPath, "subtitle": "Open in external editor" },
+                "ctrl": { "valid": true, "arg": "[" + itemName + "]" + "(x-devonthink-item://" + itemUUID + ")", "subtitle": "Copy MD Link" }
             }
             item["text"] = {
-                "copy": "x-devonthink-item://" + itemUUID,
+                "copy": itemName,
                 "largetype": "x-devonthink-item://" + itemUUID
             }
             item["quicklookurl"] = itemPath
