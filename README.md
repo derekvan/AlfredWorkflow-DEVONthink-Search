@@ -1,5 +1,5 @@
 # Modifications in this branch 
-I changed the modifier keys to suit my needs.  
+I changed the modifier keys to:
 `⏎` Open in DEVONthink   
 `⌘` Reveal in DEVONthink  
 `⇧⌘` Open in External Editor  
